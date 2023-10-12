@@ -1,10 +1,17 @@
 # payload dumper
-Script tested on Yandex Amber OTA's (full and incremental) under Linux(but may works on Windows too)
+Prerequirement:
+-------------
+```
+sudo apt install python3-pip
+pip3 install -r requirements.txt
+```
 
-## System requirement
+Usage:
+-------- 
+python3 payload_dumper.py payload.bin
 
-- Python3, pip
-- google protobuf for python `pip install protobuf`
+```
+./ozipdecrypt.py CPH1707EX_OTA_0070_all.ozip
 
 ### Docker
 
