@@ -8,10 +8,10 @@ pip3 install -r requirements.txt
 
 Usage:
 -------- 
-python3 payload_dumper.py payload.bin
+
 
 ```
-./ozipdecrypt.py CPH1707EX_OTA_0070_all.ozip
+python3 payload_dumper.py payload.bin
 
 ### Docker
 
