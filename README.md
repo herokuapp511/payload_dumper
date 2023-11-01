@@ -1,7 +1,7 @@
 # CMD
 ------------
 ```
-git clone https://github.com/herokuapp511/payload_dumper.git && cd payload_dumper && sudo apt install python3-pip && pip3 install -r requirements.txt
+git clone https://github.com/herokuapp511/payload_dumper.git && cd payload_dumper && sudo apt install -y python3-pip && pip3 install -r requirements.txt
 ```
 
 # payload dumper
