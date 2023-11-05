@@ -17,8 +17,8 @@ Usage:
 
 
 ```
-python3 payload_dumper.py payload.bin
-
+python3 payload_dumper.py ../payload.bin
+```
 ### Docker
 
 Alternatively you can use Docker:
